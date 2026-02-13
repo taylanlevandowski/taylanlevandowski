@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o taylan levandowski! 👋
 
 > 🚜 **Entusiasta do Agro | Produtor Rural | Desenvolvedor de Soluções**
 
@@ -11,7 +11,6 @@ Moro no campo e acredito que a tecnologia é a maior aliada da produtividade no 
 - 📍 **Localização:** Moro em um sítio, onde a rotina começa cedo.
 - 🚜 **Paixão:** Admirador de máquinas pesadas, especialmente os tratores **New Holland** (o azul que move o Brasil!).
 - 🌱 **Interesses:** Automação agrícola, monitoramento de safras, IoT para o campo e gestão rural.
-- 💻 **Objetivo:** Criar ferramentas que facilitem a vida de quem produz.
 
 ---
 
