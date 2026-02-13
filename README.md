@@ -18,10 +18,6 @@ Moro no campo e acredito que a tecnologia é a maior aliada da produtividade no 
 
 Aqui estão as ferramentas que uso para "arar" o campo digital:
 
-![Linguagem](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Banco de Dados](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
 ---
 
 ## 📊 Estatísticas do GitHub
